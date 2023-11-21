@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/marko-zivanic/RatingSolution)
-- Live Site URL: (https://marko-zivanic.github.io/RatingSolution/Prototype)
+- Live Site URL: (https://marko-zivanic.github.io/RatingSolution/Prototype/index.html)
 
 ## My process
 
